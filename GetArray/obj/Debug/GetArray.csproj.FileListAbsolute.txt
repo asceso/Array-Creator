@@ -1,0 +1,10 @@
+D:\Programming\Repository\GetArray\bin\Debug\GetArray.exe.config
+D:\Programming\Repository\GetArray\bin\Debug\GetArray.exe
+D:\Programming\Repository\GetArray\bin\Debug\GetArray.pdb
+D:\Programming\Repository\GetArray\obj\Debug\GetArray.Properties.Resources.resources
+D:\Programming\Repository\GetArray\obj\Debug\GetArray.csproj.GenerateResource.cache
+D:\Programming\Repository\GetArray\obj\Debug\GetArray.csproj.CoreCompileInputs.cache
+D:\Programming\Repository\GetArray\obj\Debug\GetArray.exe
+D:\Programming\Repository\GetArray\obj\Debug\GetArray.pdb
+D:\Programming\Repository\GetArray\obj\Debug\GetArray.ArrayGenerator.resources
+D:\Programming\Repository\GetArray\obj\Debug\GetArray.csprojAssemblyReference.cache
